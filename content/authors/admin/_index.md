@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Juntai Cao
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Juntai
+last_name: Cao
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Master Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of British Columbia
+    url: https://nlp.cs.ubc.ca
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -138,11 +138,9 @@ skills:
 
 languages:
   - name: English
-    percent: 100
+    percent: 
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 
 
 # Awards.
 #   Add/remove as many awards below as you like.
