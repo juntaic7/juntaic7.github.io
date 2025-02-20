@@ -16,9 +16,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: iStock-1523092573.jpg
+          filename: iStock-962362664.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.7
           size: cover
           position: center
           parallax: false
