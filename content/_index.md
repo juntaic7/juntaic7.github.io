@@ -13,10 +13,10 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: blue
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: iStock-962362664.jpg
           filters:
             brightness: 0.4
           size: cover
