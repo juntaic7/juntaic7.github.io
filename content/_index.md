@@ -13,10 +13,10 @@ sections:
     design:
       css_class: dark
       background:
-        color: red
+        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: iStock-962362664.jpg
+          filename: iStock-1523092573.jpg
           filters:
             brightness: 0.8
           size: cover
