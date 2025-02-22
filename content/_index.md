@@ -24,7 +24,7 @@ sections:
           parallax: false
   - block: stats
     content:
-      # items:
+      items:
       #   - statistic: "15"
       #     description: |
       #       Publications
