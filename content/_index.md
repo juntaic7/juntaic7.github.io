@@ -45,9 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a graduate student working on Natural Language Processing.
-        
-        I study test-time scaling of LLMs.
+        I'm a graduate student working on Natural Language Processing.<br>I study test-time scaling of LLMs.
 
     design:
       columns: '1'
