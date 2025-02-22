@@ -10,15 +10,15 @@ main:
   - name: Research
     url: /publication
     weight: 11
-  - name: Talks
-    url: /event
-    weight: 12
   - name: Experience
     url: experience/
     weight: 20
   - name: Projects
     url: projects/
     weight: 30
+  - name: Talks
+    url: /event
+    weight: 12
   - name: Uses
     url: uses/
     weight: 40
