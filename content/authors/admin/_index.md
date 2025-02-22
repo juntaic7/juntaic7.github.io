@@ -11,7 +11,7 @@ last_name: Cao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 📚
 
 # Is this the primary user of the site?
 superuser: true
@@ -41,8 +41,6 @@ profiles:
     url: https://x.com/CinThaZVII
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/juntai-george-cao-25276016a/
-
-
   # - icon: academicons/orcid
   #   url: https://orcid.org/
   # - icon: brands/instagram
