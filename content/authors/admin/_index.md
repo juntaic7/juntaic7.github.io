@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jtcao7@cs.ubc.ca'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.ca/citations?hl=en&tzom=480&user=5cHxOowAAAAJ
   - icon: brands/github
     url: https://github.com/juntaic7
   - icon: brands/x
