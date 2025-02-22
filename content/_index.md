@@ -24,16 +24,16 @@ sections:
           parallax: false
   - block: stats
     content:
-      items:
-        - statistic: "15"
-          description: |
-            Publications
-        - statistic: "1,000+"
-          description: |
-            Citations
-        - statistic: "78"
-          description: |
-            h-index
+      # items:
+      #   - statistic: "15"
+      #     description: |
+      #       Publications
+      #   - statistic: "1,000+"
+      #     description: |
+      #       Citations
+      #   - statistic: "78"
+      #     description: |
+      #       h-index
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
