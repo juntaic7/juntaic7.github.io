@@ -12,13 +12,13 @@ main:
     weight: 11
   - name: Experience
     url: experience/
-    weight: 20
-  - name: Projects
-    url: projects/
-    weight: 30
+    weight: 15
+  # - name: Projects
+  #   url: projects/
+  #   weight: 30
   - name: Posts & Talks
     url: /event
-    weight: 12
+    weight: 20
   - name: Uses
     url: uses/
     weight: 40
