@@ -28,9 +28,9 @@ sections:
       #   - statistic: "15"
       #     description: |
       #       Publications
-        - statistic: "100+"
-          description: |
-            Citations
+      #   - statistic: "1,000+"
+      #     description: |
+      #       Citations
       #   - statistic: "78"
       #     description: |
       #       h-index
