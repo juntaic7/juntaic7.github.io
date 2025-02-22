@@ -45,7 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a graduate student working on NLP.<br>I study of LLMs.
+        I'm a graduate student working on NLP.<br>I study LLMs.
 
     design:
       columns: '1'
