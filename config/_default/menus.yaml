@@ -16,9 +16,13 @@ main:
   # - name: Projects
   #   url: projects/
   #   weight: 30
-  - name: Posts & Talks
-    url: /event
+  - name: Posts
+    url: /post
     weight: 20
-  - name: Uses
-    url: uses/
-    weight: 40
+
+  - name: Talks
+    url: /event
+    weight: 25
+  # - name: Uses
+  #   url: uses/
+  #   weight: 40
