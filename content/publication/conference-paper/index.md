@@ -7,6 +7,8 @@ title: 'An example conference paper'
 authors:
   - admin
   - Robert Ford
+  - Jane Doe
+  - Jack Smith
 
 # Author notes (optional)
 author_notes:
