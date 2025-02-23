@@ -10,6 +10,5 @@ banner:
   caption: ''
   image: ''
 
-<small>* Denotes equal contribution</small>
 ---
 
