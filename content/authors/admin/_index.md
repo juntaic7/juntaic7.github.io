@@ -47,21 +47,28 @@ profiles:
   #   url: https://www.instagram.com/
 
 education:
+  # - area: Master of Science in Computer Science
+  #   institution: University of British Columbia
+  #   date_start: 2023-09-01
+  #   date_end: 
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
   - area: Master of Science in Computer Science
     institution: University of British Columbia
     date_start: 2023-09-01
-    date_end: 
+    date_end: 2025-12-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+        Advisor: [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/)
+      
   - area: Bachelor of Computer Science
     institution: University of British Columbia
     date_start: 2020-09-01
     date_end: 2023-05-30
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.0/4.0
   - area: Bachelor of Applied Science in Materials Engineering
     institution: Chongqing University & University of British Columbia
     date_start: 2016-09-01
