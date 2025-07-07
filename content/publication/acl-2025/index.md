@@ -3,8 +3,8 @@ title: 'Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Sea
 
 # Authors
 authors:
-  - Xiang Zhang
-  - admin
+  - Xiang Zhang*
+  - admin*
   - Jiaqi Wei
   - Chenyu You
   - Dujian Ding
@@ -13,9 +13,6 @@ authors:
 author_notes:
   - "Equal contribution"
   - "Equal contribution"
-  - 
-  - 
-  - 
 
 date: '2025-07-01T00:00:00Z'
 doi: ''
