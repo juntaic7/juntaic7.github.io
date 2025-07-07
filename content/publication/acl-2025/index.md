@@ -18,7 +18,7 @@ date: '2025-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-07-01T00:00:00Z'
+publishDate: '2024-12-01T00:00:00Z'
 
 # Publication type.
 publication_types: ['paper-conference']
