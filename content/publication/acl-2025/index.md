@@ -3,14 +3,16 @@ title: 'Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Sea
 
 # Authors
 authors:
-  - [Xiang Zhang *](https://wyattz23.github.io/)
-  - admin *
+  - [Xiang Zhang](https://wyattz23.github.io/)
+  - admin
   - Jiaqi Wei
   - [Chenyu You](https://chenyuyou.me/)
   - Dujian Ding
 
 # Author notes (optional)
-author_notes: * Equal contribution
+author_notes:
+  - Equal contribution
+  - Equal contribution
 
 date: '2025-07-01T00:00:00Z'
 doi: ''
