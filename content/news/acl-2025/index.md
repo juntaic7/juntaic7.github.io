@@ -4,8 +4,8 @@ summary: Excited to share that our paper has been accepted to ACL 2025!
 date: 2025-06-29
 
 authors:
-  - admin
   - Xiang Zhang
+  - admin
   - Jiaqi Wei
   - Chenyu You
   - Dujian Ding
