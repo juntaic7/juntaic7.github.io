@@ -17,6 +17,5 @@ tags:
 ---
 
 Great news! Our paper has been accepted to ACL 2025.
-[Read the full paper →](https://arxiv.org/abs/2503.10084)
-[Code →](https://github.com/juntaic7/CoT-with-Supervision)
+[Read more →](/publication/acl-2025/)
 
