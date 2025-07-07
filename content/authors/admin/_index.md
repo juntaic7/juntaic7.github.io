@@ -25,7 +25,7 @@ role: Master Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of British Columbia
-    url: https://nlp.cs.ubc.ca
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
