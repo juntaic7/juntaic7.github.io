@@ -17,6 +17,6 @@ tags:
   - Prompting
 ---
 
-Great news! Our paper *Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs* has been accepted to ACL 2025 Main Conference!
+Great news! Our paper "*Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Search Space in LLMs*" has been accepted to ACL 2025 Main Conference!
 
 [Read more →](/publication/acl-2025/)
