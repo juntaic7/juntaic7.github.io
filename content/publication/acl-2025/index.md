@@ -4,7 +4,7 @@ title: 'Why Prompt Design Matters and Works: A Complexity Analysis of Prompt Sea
 # Authors
 authors:
   - Xiang Zhang
-  - Juntai Cao
+  - admin
   - Jiaqi Wei
   - Chenyu You
   - Dujian Ding
