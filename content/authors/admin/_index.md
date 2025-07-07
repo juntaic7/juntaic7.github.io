@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Role/position/tagline
 role: Master Student
