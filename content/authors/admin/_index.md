@@ -103,15 +103,15 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: PyTorch
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
-      - name: Data Science
+      - name: Triton
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: vLLM
         description: ''
         percent: 40
         icon: circle-stack
@@ -127,10 +127,10 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      # - name: Photography
+      #   description: ''
+      #   percent: 80
+      #   icon: camera
 
 languages:
   - name: English
