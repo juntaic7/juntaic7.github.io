@@ -45,7 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a graduate student working on NLP.<br>I study LLMs.
+        I'm a graduate student in NLP, with broad interests in LLM agents, interpretability, model architecture, and infrastructure.
 
     design:
       columns: '1'
