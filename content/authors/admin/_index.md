@@ -25,7 +25,7 @@ role: Master Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of British Columbia
-    url: 
+    url: https://www.ubc.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -68,9 +68,9 @@ education:
     date_start: 2020-09-01
     date_end: 2023-05-30
     summary: |
-      GPA: 4.0/4.0
+
   - area: Bachelor of Applied Science in Materials Engineering
-    institution: Chongqing University & University of British Columbia
+    institution: University of British Columbia & Chongqing University
     date_start: 2016-09-01
     date_end: 2020-05-30
     summary: |
@@ -107,7 +107,7 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Triton
+      - name: CUDA
         description: ''
         percent: 100
         icon: chart-bar
