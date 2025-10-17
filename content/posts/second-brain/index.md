@@ -1,12 +1,10 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Interpretability for Language Models
+summary: A test for the post.
+date: 2025-09-26
 tags:
-  - Second Brain
+  - Interpretability
   - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
