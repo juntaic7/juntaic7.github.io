@@ -59,7 +59,7 @@ education:
   - area: Master of Science in Computer Science
     institution: University of British Columbia
     date_start: 2023-09-01
-    date_end: 2025-12-01
+    date_end: 2026-04-30
     summary: |
         Advisor: [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/)
       

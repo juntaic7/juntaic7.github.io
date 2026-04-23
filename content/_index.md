@@ -45,7 +45,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a graduate student in NLP, with broad interests in LLM agents, interpretability, and infrastructure.
+        I'm a graduate student working on LLMs, with broad interests in agents, interpretability, and AI for science.
 
     design:
       columns: '1'
