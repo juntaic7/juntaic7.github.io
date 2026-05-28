@@ -45,7 +45,14 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I'm a graduate student working on LLMs, with broad interests in agents and interpretability.
+        I am Juntai Cao, an MSc student in Computer Science at the University of British Columbia, advised by [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/).
+
+        My research centers on large language models, with a focus on:
+        - AI agents and tool-using systems
+        - model interpretability and reliability
+        - efficient LLM inference and deployment
+
+        I am always happy to discuss research ideas and potential collaborations.
 
     design:
       columns: '1'
