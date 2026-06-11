@@ -10,8 +10,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       title: Welcome
-      text: |-
-        My interests lie in language models, especially agentic systems that can reason, plan, and interact with tools. I am interested in AI safety questions around making these systems reliable, interpretable, and aligned with human intent. I also care about AI for science, where language models and agents can help accelerate discovery across scientific domains.
+      text:
     design:
       css_class: dark
       background:
@@ -47,7 +46,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        My interests lie in language models, especially agentic systems that can reason, plan, and interact with tools. I am interested in AI safety questions around making these systems reliable, interpretable, and aligned with human intent. I also care about AI for science, where language models and agents can help accelerate discovery across scientific domains.
+        My research interests are language models and agents for reasoning, planning, and tool use; AI safety for reliable, interpretable, and aligned systems; and AI for science to accelerate discovery across scientific domains.
 
     design:
       columns: '1'
