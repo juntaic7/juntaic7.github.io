@@ -20,17 +20,16 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: MSc Student in Computer Science
+role: Researcher
 
 # Short bio (displayed in the biography block)
-bio: Researching large language models, AI agents, and model interpretability.
+bio:
 
 # Areas of interest shown in the biography block
 interests:
   - Large Language Models
-  - AI Agents
-  - Model Interpretability
-  - Efficient Inference
+  - AI Safety
+  - AI for Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
