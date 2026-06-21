@@ -9,6 +9,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      title: Welcome
       text:
     design:
       css_class: dark
@@ -45,14 +46,7 @@ sections:
       title: 'Welcome 👋'
       subtitle: ''
       text: |-
-        I am Juntai Cao, an MSc student in Computer Science at the University of British Columbia, advised by [Jiarui Ding](https://www.cs.ubc.ca/~jiaruid/).
-
-        My research centers on large language models, with a focus on:
-        - AI agents and tool-using systems
-        - model interpretability and reliability
-        - efficient LLM inference and deployment
-
-        I am always happy to discuss research ideas and potential collaborations.
+        My research interests are language models and agents for reasoning, planning, and tool use; AI safety for reliable, interpretable, and aligned systems; and AI for science to accelerate discovery across scientific domains.
 
     design:
       columns: '1'
